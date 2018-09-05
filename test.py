@@ -1,4 +1,4 @@
-for numbers in len(range(10)):
+for numbers in range(len(10)):
 	print(numbers)
 
 
